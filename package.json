@@ -28,6 +28,6 @@
     "picasa": "~1.0.8",
     "rendertron-middleware": "~0.1.5",
     "request": "~2.88.0",
-    "sharp": "~0.23.0"
+    "sharp": "~0.30.5"
   }
 }
